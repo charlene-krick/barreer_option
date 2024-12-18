@@ -1,1 +1,1 @@
-# barreer_option
+# Option barrière
